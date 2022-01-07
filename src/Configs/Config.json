@@ -1,0 +1,34 @@
+{
+    "token": "TOKEN",
+    "owner": "OWNER ID",
+    "prefix": "prefix",
+    "server": "ROLES GUILD ID",
+    
+    "roles": {
+        "cekilis": "ROLE ID",
+        "etkinlik": "ROLE ID",
+
+        "sevgilimvar": "ROLE ID",
+        "sevgilimyok": "ROLE ID",
+        "lgbt": "ROLE ID",
+
+        "pembe": "ROLE ID",
+        "mor": "ROLE ID",
+        "kirmizi": "ROLE ID",
+        "mavi": "ROLE ID",
+        "sari": "ROLE ID",
+
+        "ikizler": "ROLE ID",
+        "yengec": "ROLE ID",
+        "yay": "ROLE ID",
+        "boga": "ROLE ID",
+        "koc": "ROLE ID",
+        "akrep": "ROLE ID",
+        "terazi": "ROLE ID",
+        "basak": "ROLE ID",
+        "aslan": "ROLE ID",
+        "balik": "ROLE ID",
+        "kova": "ROLE ID",
+        "oglak": "ROLE ID"
+    }
+}
