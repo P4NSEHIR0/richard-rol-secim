@@ -7,7 +7,7 @@ module.exports = async (menu) => {
         await menu.clicker.member.roles.remove(conf.roles.lgbt)
         await menu.clicker.member.roles.remove(conf.roles.sevgilimyok)
         await menu.clicker.member.roles.remove(conf.roles.sevgilimvar)
-        menu.reply.edit("İsteğin sonucunda üzerindeki renk rolü alındı.")
+        menu.reply.edit("İsteğin sonucunda üzerindeki ilişki rolü alındı.")
 }
 if (menu.values[0] === 'lgbt') {
   if(!menu.clicker.member.roles.cache.has(conf.roles.lgbt)) {
